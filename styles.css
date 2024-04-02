@@ -41,17 +41,13 @@ img {
   height: auto;
   display: block;
   margin: 0 auto;
-  border-radius: 5px;
-  border: 2px solid black;
 }
 
-.part2 img {
-  max-height: 200px;
+.part1 img {
+  max-height: 350px;
   width: auto;
   display: block;
   margin: 0 auto;
-  border-radius: 5px;
-  border: 2px solid black;
 }
 
 p {
